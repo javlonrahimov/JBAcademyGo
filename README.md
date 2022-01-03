@@ -1,2 +1,2 @@
 # JBAcademyGo
-JetBrains Academy Go track project implements.
+JetBrains Academy Go track project implementations.
